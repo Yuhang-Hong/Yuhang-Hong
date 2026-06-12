@@ -6,7 +6,6 @@ My research focuses on **domain generalization** and **cross-domain adaptation**
 
 -  **Hyperspectral Image Classification** — cross-scene generalization
 -  **Gaze Estimation** — domain-invariant gaze prediction
--  **Self-Knowledge Distillation** — improving model robustness
 
 ---
 
