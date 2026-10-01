@@ -14,7 +14,7 @@ My research focuses on **domain generalization** and **cross-domain adaptation**
 | Paper                                                        | Venue                   | Code                                                         |
 | ------------------------------------------------------------ | ----------------------- | ------------------------------------------------------------ |
 | **Cross-Scene Hyperspectral Image Classification Network with Dynamic Perturbation and Self-Knowledge Distillation** | IEEE TGRS               | [DPSKDnet](https://github.com/Yuhang-Hong/TGRS_DPSKDnet) |
-| **Purifying Domain-Invariant Representations via Adversarial Decoupling for Hyperspectral Image Generalization** | IEEE TCSVT | [Pureformer](https://github.com/Yuhang-Hong/Pureformer)      |
+| **Purifying Domain-Invariant Representations via Adversarial Decoupling for Hyperspectral Image Generalization** |  IEEE TCSVT | [Pureformer](https://github.com/Yuhang-Hong/Pureformer)      |
 
 ---
 
